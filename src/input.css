@@ -1,6 +1,8 @@
 @import "tailwindcss";
 
-body{
+.syne{
     font-family: "Syne", serif;
+}
+.Rubik{
     font-family: "Rubik", serif;
 }
