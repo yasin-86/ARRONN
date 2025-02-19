@@ -1,8 +1,13 @@
 @import "tailwindcss";
 
+html{
+    font-size: 62.5%;
+}
+
 .syne{
     font-family: "Syne", serif;
 }
+
 .Rubik{
     font-family: "Rubik", serif;
 }
